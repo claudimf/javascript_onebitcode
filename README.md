@@ -8,21 +8,21 @@
 
 Neste curso o que temos a aprender:  
 
-1° JAVASCRIPT  
-2° Configuração do Docker  
+1. JAVASCRIPT  
+2. Configuração do Docker  
 
-# Notas das Aulas
-<details>
-    <summary>Aulas</summary>
+## Notas das Aulas
+<details open>
+    <summary>Ver Aulas</summary>
     <ul>
         <li><a href="https://www.youtube.com/watch?v=AYiwwzvh3ec">Aula 01 - O que é JavaScript?</a>
         </li>
     </ul>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=O8T_wlotoRE">Aula 02 - Tipos de Dados, Strings, Números e Operações Matemáticas</a>
+        </li>
+    </ul>
 </details>
-
-```sh
-docker compose run --rm app bash
-```
 
 # Guia do desenvolvedor
 
@@ -73,3 +73,13 @@ console.log("Ola, fulano")
 [4° Node LTS](https://nodejs.org/en) 
 
 [5° Codepen IO](https://codepen.io/pen) 
+
+[6° Creating a package.json file](https://docs.npmjs.com/creating-a-package-json-file) 
+
+[7° Objetos Globais(tipos primitivos)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects) 
+
+[8° Operadores](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators) 
+
+[9° String](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String) 
+
+[10° Prompt](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/prompt) 

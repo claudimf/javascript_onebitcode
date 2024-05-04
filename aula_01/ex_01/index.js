@@ -1,0 +1,1 @@
+alert("Comecando meus estudos em Javascript")

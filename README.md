@@ -15,11 +15,18 @@ Neste curso o que temos a aprender:
 <details open>
     <summary>Ver Aulas</summary>
     <ul>
-        <li><a href="https://www.youtube.com/watch?v=AYiwwzvh3ec">Aula 01 - O que é JavaScript?</a>
+        <li>
+            <a href="https://www.youtube.com/watch?v=AYiwwzvh3ec">Aula 01 - O que é JavaScript?</a>
         </li>
     </ul>
     <ul>
-        <li><a href="https://www.youtube.com/watch?v=O8T_wlotoRE">Aula 02 - Tipos de Dados, Strings, Números e Operações Matemáticas</a>
+        <li>
+            <a href="https://www.youtube.com/watch?v=O8T_wlotoRE">Aula 02 - Tipos de Dados, Strings, Números e Operações Matemáticas</a>
+        </li>
+    </ul>
+    <ul>
+        <li>
+            <a href="https://www.youtube.com/watch?v=797wp0Et4D8">Aula 03 - Expressões Lógicas e Estruturas de Controle</a>
         </li>
     </ul>
 </details>

@@ -17,8 +17,11 @@ docker rmi javascript_onebitcode-app
 docker compose build app
 echo "Imagens - feito!"
 
-echo "Node version instalada"
+echo "Node versão instalada"
 docker compose run --rm app node --version
+
+echo "NPM versão instalada"
+docker compose run --rm app npm --version
 
 # Como executar:
 # bash 01_build_local_project.sh

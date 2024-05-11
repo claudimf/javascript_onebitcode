@@ -29,6 +29,11 @@ Neste curso o que temos a aprender:
             <a href="https://www.youtube.com/watch?v=797wp0Et4D8">Aula 03 - Expressões Lógicas e Estruturas de Controle</a>
         </li>
     </ul>
+    <ul>
+        <li>
+            <a href="https://www.youtube.com/watch?v=3vPYpGnH9kQ">Aula 04 - Funções e Módulos</a>
+        </li>
+    </ul>
 </details>
 
 # Guia do desenvolvedor
@@ -62,7 +67,6 @@ docker compose run --rm app bash
 npm init --yes
 ```
 
-
 ### Rodando o Node localmente:
 ```sh
 docker compose run --rm app node
@@ -90,3 +94,11 @@ console.log("Ola, fulano")
 [9° String](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String) 
 
 [10° Prompt](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/prompt) 
+
+[11° Verificar compatibilidade de módulos com o "Can I Use"](https://caniuse.com/?search=esmodule) 
+
+[12° Zod package](https://www.npmjs.com/package/zod) 
+
+[13° Vite](https://vitejs.dev/) 
+
+[14° Exercícios resolvidos](https://onebitcode.notion.site/Exerc-cios-da-Aula-4-117094074d264b50ba3a29ae237d5d53)  

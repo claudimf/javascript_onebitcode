@@ -39,6 +39,11 @@ Neste curso o que temos a aprender:
             <a href="https://www.youtube.com/watch?v=eNv9hUFqCvU">Aula 05 - Objetos e Arrays</a>
         </li>
     </ul>
+    <ul>
+        <li>
+            <a href="https://www.youtube.com/watch?v=-stSStxblQ8">Aula 06 - DOM: Manipulação de Elementos e Eventos</a>
+        </li>
+    </ul>
 </details>
 
 # Guia do desenvolvedor

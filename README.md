@@ -44,6 +44,11 @@ Neste curso o que temos a aprender:
             <a href="https://www.youtube.com/watch?v=-stSStxblQ8">Aula 06 - DOM: Manipulação de Elementos e Eventos</a>
         </li>
     </ul>
+    <ul>
+        <li>
+            <a href="https://www.youtube.com/watch?v=fGtlxGR14cg">Aula 07 - ASSINCRONICIDADE: Domine Promises em JavaScript!</a>
+        </li>
+    </ul>
 </details>
 
 # Guia do desenvolvedor

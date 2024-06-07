@@ -49,6 +49,11 @@ Neste curso o que temos a aprender:
             <a href="https://www.youtube.com/watch?v=fGtlxGR14cg">Aula 07 - ASSINCRONICIDADE: Domine Promises em JavaScript!</a>
         </li>
     </ul>
+    <ul>
+        <li>
+            <a href="https://www.youtube.com/watch?v=HutpniVi7lg">Aula 8 - REQUISIÇÕES HTTP: Domine no JavaScript!</a>
+        </li>
+    </ul>
 </details>
 
 # Guia do desenvolvedor
@@ -117,3 +122,7 @@ console.log("Ola, fulano")
 [13° Vite](https://vitejs.dev/) 
 
 [14° Exercícios resolvidos](https://onebitcode.notion.site/Exerc-cios-da-Aula-4-117094074d264b50ba3a29ae237d5d53)  
+
+[15° jsonplaceholder](https://jsonplaceholder.typicode.com/)  
+
+[16° JSON server](https://www.npmjs.com/package/json-server)  

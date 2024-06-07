@@ -6,7 +6,5 @@ services:
     volumes:
       - .:/app/
       - /app/node_modules
-      - /app/aula_04:/public
     ports:
       - "3000:3000"
-      - "4173:4173"

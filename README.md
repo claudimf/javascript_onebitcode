@@ -54,6 +54,11 @@ Neste curso o que temos a aprender:
             <a href="https://www.youtube.com/watch?v=HutpniVi7lg">Aula 8 - REQUISIÇÕES HTTP: Domine no JavaScript!</a>
         </li>
     </ul>
+    <ul>
+        <li>
+            <a href="https://www.youtube.com/watch?v=mcBAJg4ieFc">Aula 9 - Parte 1 do PROJETO FINAL EM JAVASCRIPT: Desenvolvimento de APP!</a>
+        </li>
+    </ul>
 </details>
 
 # Guia do desenvolvedor
@@ -126,3 +131,5 @@ console.log("Ola, fulano")
 [15° jsonplaceholder](https://jsonplaceholder.typicode.com/)  
 
 [16° JSON server](https://www.npmjs.com/package/json-server)  
+
+[17° Projeto final One Bit Code](https://github.com/isaacpontes/projeto-final-js-obc)  

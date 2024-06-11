@@ -59,6 +59,11 @@ Neste curso o que temos a aprender:
             <a href="https://www.youtube.com/watch?v=mcBAJg4ieFc">Aula 9 - Parte 1 do PROJETO FINAL EM JAVASCRIPT: Desenvolvimento de APP!</a>
         </li>
     </ul>
+    <ul>
+        <li>
+            <a href="https://www.youtube.com/watch?v=jqpZWaTpNMo">Aula 10 - Parte 2 do PROJETO FINAL: Truques com Formulários JavaScript!</a>
+        </li>
+    </ul>
 </details>
 
 # Guia do desenvolvedor

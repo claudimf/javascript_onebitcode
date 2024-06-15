@@ -1,0 +1,16 @@
+FROM node:20.12.2
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Install json-server globally
+RUN npm install -g json-server
+
+# Copy the db.json file to the working directory
+COPY database.json .
+
+# Expose port 3000 to the host
+EXPOSE 3000
+
+# Command to run the application
+CMD ["json-server", "--watch", "database.json", "--port", "3000"]

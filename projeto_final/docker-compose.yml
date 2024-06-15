@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3001:3001"
+    depends_on:
+      - web_server
+    volumes:
+      - .:/app
+    environment:
+      - NODE_ENV=development
+    command: nodemon server.js
+  
+  web_server:
+    build:
+      context: .
+      dockerfile: Dockerfile.server
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./database.json:/app/database.json
